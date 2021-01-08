@@ -1,0 +1,29 @@
+boolean
+boolean
+CLASS  Program 
+boolean  i  j 
+boolean  arr [100]
+boolean  main  ( boolean  argc  boolean  abcd  )
+boolean  a   b  
+boolean  d  
+ b  = 1 
+
+ c  =  a [ i ] 
+
+IF
+ a > 20 
+RETURN 0 
+
+ELSE
+CONTINUE
+ a  +=  b 
+
+
+
+
+boolean  too  ( boolean  c  )
+ foo  dadasa  b  a +  b 
+
+void  fun  ( )
+ foo  a  b 
+
